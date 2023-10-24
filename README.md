@@ -1,4 +1,4 @@
-# NextBlog - Next.js Blog Template | Self-hosted Medium / Substack Alternative Built on Next.js
+# NextBlog - Next.js Blog Template | Self-hosted Medium Alternative Built with Next.js
 
 NextBlog is an innovative blog template specifically designed and engineered for top-tier blog sites, bespoke blogging solutions, and superior publishing platforms. It offers a complete blogging solution built on the Next.js framework, thereby eliminating the need to stress over design, frontend coding, or constructing functionalities.
 
