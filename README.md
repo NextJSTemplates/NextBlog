@@ -33,7 +33,7 @@ NextBlog allows hassle-free subscription payments through Stripe integration.
 NextBlog guarantees premium code quality following Next.js's best practices and is highly optimized for SEO and performance. 
 
 **Rich and Detailed Documentation:** 
-NextBlog also includes comprehensive, easy-to-follow [documentation](https://nextjstemplates.com/docs/nextblog-template)
+NextBlog also includes comprehensive, easy-to-follow [documentation](https://nextjstemplates.com/docs)
 
 **TypeScript:**
 The template uses TypeScript, offering reliability and efficiency in your coding process.
